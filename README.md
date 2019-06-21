@@ -4,3 +4,6 @@
 -No deben modificar la rama master.
 -No es para que hagan trampa, porque asi solo se hacen trampa ustedes.
 -Espero que les sea de ayuda.
+
+
+tengo dudas bhreog
